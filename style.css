@@ -113,7 +113,7 @@ header {
 .item2{
     
     display: flex;
-    align-items:flex-start;
+    align-items:flex-end;
     float: right;
     size: 40%;
 }
@@ -123,4 +123,37 @@ header {
     align-items:flex-start;
     float: left;
     size: 40%;
+}
+.con1{
+    max-width: 1000px;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 5%;
+
+
+}
+.con2{
+    max-width:1000px;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 5%;
+}
+.con3{
+    max-width: 1000px;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    border-bottom: 5%;
+}
+.con4{
+    max-width: 1000px;
+    margin:auto;
+    border-bottom: 5%;
+    
+}
+.title4{
+    margin:auto;
+    text-align:center;
 }
